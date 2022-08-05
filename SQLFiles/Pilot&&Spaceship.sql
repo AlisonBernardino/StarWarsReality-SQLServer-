@@ -1,0 +1,3 @@
+-- Table properties
+PilotID
+SpaceshipID
